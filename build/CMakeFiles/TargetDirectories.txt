@@ -1,0 +1,3 @@
+/home/alunia/myrobot/build/CMakeFiles/hello.dir
+/home/alunia/myrobot/build/CMakeFiles/edit_cache.dir
+/home/alunia/myrobot/build/CMakeFiles/rebuild_cache.dir
